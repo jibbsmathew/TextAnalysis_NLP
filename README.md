@@ -30,7 +30,7 @@ As a Data Science professional diving into Text Analysis, the process typically 
 
 ## Getting Started:
 
-To start your Text Analysis journey, acquiring suitable datasets is crucial. We've sourced an ideal dataset tailored for this guide. You can download the dataset [here]([insert_link](https://statso.io/text-analysis-case-study/)).
+To start your Text Analysis journey, acquiring suitable datasets is crucial. We've sourced an ideal dataset tailored for this guide. You can download the dataset [here](https://statso.io/text-analysis-case-study/)
 
 This guide aims to walk you through each step, providing hands-on examples using Python to demonstrate the implementation of Text Analysis techniques. Whether you're a beginner or an experienced data professional, this guide will empower you to unlock the potential of Text Analysis using Python.
 
